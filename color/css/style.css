@@ -11,20 +11,22 @@ body{
 /* main title */
 h1{
 	font-family: Arial, Verdana, sans-serif;
-	font-size: 3em;
-	color: #3643A4;
-	background-color: #0B0B0D;
-	background-color: hsla(180,30%,50%,0.75);}
-
+	color: white;
+	background-color: #0F1142;
+	background-color: hsl(0,0%,15%);
 }
-/* subtitles */
+/*subtitles*/
 h2,h3{
-	color: #0B0B0D;
+	color: rgb(11,11,13);
 	background-color: #3643A4;
 }
-/* paragraphs */
-p{
-	padding-top: 20px;
-	word-spacing: 3px;
-	line-height: 25px;
+/*nav*/
+ol{
+	background-color: #3643A4;
+	background-color: hsla(180,30%,50%,0.75);
+}
+/*links*/
+a{
+	color: rgb(27,37,116);
+	text-decoration: none;
 }
