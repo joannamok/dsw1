@@ -1,0 +1,32 @@
+/*	Joanna Mokhtarezadeh
+Styling Text Assignment
+12-4-13
+*/
+
+/* entire page */
+body{
+	font-family: Arial, Verdana, sans-serif;
+	background-color: rgb(138,181,255);
+}
+/* main title */
+h1{
+	font-family: Arial, Verdana, sans-serif;
+	color: white;
+	background-color: #0F1142;
+	background-color: hsl(0,0%,15%);
+}
+/*subtitles*/
+h2,h3{
+	color: rgb(11,11,13);
+	background-color: #3643A4;
+}
+/*nav*/
+ol{
+	background-color: #3643A4;
+	background-color: hsla(180,30%,50%,0.75);
+}
+/*links*/
+a{
+	color: rgb(27,37,116);
+	text-decoration: none;
+}
