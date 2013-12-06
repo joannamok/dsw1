@@ -1,0 +1,36 @@
+/*	Joanna Mokhtarezadeh
+CSS Color Assignment
+12-4-13
+*/
+
+/* entire page */
+body{
+	font-family: Arial, Verdana, sans-serif;
+	background-color: rgb(241,242,244);
+}
+/* main title */
+h1{
+	color: rgb(241,242,244);
+	background-color:#468DC3;
+}
+/*subtitles*/
+h2,h3{
+	color: rgb(241,242,244);
+	background-color: rgb(33,88,140);
+}
+/*lists*/
+ul,ol{
+	padding: 20px;
+	background-color: #21588C;
+	background-color: hsla(180,30%,50%,0.75);
+}
+}
+/*links*/
+a{
+	color: rgb(33,88,140);
+}
+/*paragraphs*/
+p{
+	background-color: #21588C;
+	background-color:  hsl(180,50%,90%);
+}
