@@ -5,12 +5,13 @@ Styling Text Assignment
 
 /* entire page */
 body{
+	padding: 20px;
 	font-family: Arial, Verdana, sans-serif;
 	background-color: rgb(241,242,244);	/*off white*/
 }
 /* main title */
 h1{
-	padding: 20px;
+	padding: inherit;
 	font-size: 2.0em;
 	font-weight: normal;
 	color: rgb(241,242,244);
@@ -18,7 +19,7 @@ h1{
 }
 /*subtitles*/
 h2,h3{
-	padding: 20px;
+	padding: inherit;
 	font-weight: normal;
 	text-transform: capitalize;
 	color: rgb(241,242,244);
@@ -26,9 +27,10 @@ h2,h3{
 }
 /*nav*/
 ul,ol{
-	padding: 20px;
+	padding: inherit;
 	background-color: #21588C;
 	background-color: hsla(180,30%,50%,0.90);
+
 }
 
 /*links*/
@@ -41,7 +43,8 @@ a{
 p{
 	
 	line-height: 25px;
-	word-spacing: 5px;
+	word-spacing: 4px;
+	text-align: left;
 	background-color: #21588C;
 	background-color:  hsl(180,50%,90%);
 }
