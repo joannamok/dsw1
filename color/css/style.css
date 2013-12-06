@@ -20,10 +20,8 @@ h2,h3{
 }
 /*lists*/
 ul,ol{
-	padding: 20px;
 	background-color: #21588C;
 	background-color: hsla(180,30%,50%,0.75);
-}
 }
 /*links*/
 a{
