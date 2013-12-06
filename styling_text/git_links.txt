@@ -1,0 +1,7 @@
+Joanna Mokhtarezadeh
+Stylling-Text Assignment
+12-4-13
+
+dsw1 git repo: https://github.com/joannamok/dsw1/tree/gh-pages
+
+CSS Color html: http://joannamok.github.io/dsw1/styling_text/styling_text.html
