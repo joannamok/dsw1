@@ -13,12 +13,12 @@ h1{
 	background-color:#468DC3;
 }
 /*subtitles*/
-h2,h3{
+h2{
 	color: white;
 	background-color: rgb(33,88,140);
 }
 /*lists*/
-ul,ol{
+ul{
 	background-color: #21588C;
 	background-color: hsla(180,30%,50%,0.75);
 }
