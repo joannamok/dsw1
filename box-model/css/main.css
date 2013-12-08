@@ -6,11 +6,12 @@ Styling Text Assignment
 /* entire page */
 body{
 	font-family: Arial, Verdana, sans-serif;
-	background-color: rgb(241,242,244);	/*off white*/
+	background-color: rgb(33,88,140);	/*off white*/
 }
 
 /*page div*/
 #page{
+	background-color: rgb(241,242,244);	/*off white*/
 	width: 960px;
 	border: 4px groove #013673;
 	padding: 20px;
@@ -26,6 +27,9 @@ h1{
 	padding: 20px;
 	text-align: center;
 	border: 4px double #013673;
+	border-radius: 1em 4em 1em 4em / 2em 1em 2em 1em;
+	box-shadow: 5px 5px 5px #777777;
+	margin-bottom: 0px;
 }
 
 /*section titles*/
@@ -38,6 +42,15 @@ h2,h3{
 	padding: 15px;
 	text-align: center; 
 	border: 4px double #013673;
+	border-radius: 10px;
+	margin: 0px auto 0px auto;
+
+}
+
+li {
+	margin-right: 20px;
+	display: inline;
+
 }
 
 /*nav and list*/
@@ -45,7 +58,12 @@ ul{
 	background-color: #21588C;
 	background-color: hsla(180,30%,50%,0.90);
 	list-style-type: none;
-}
+	padding: 10px;
+	text-align: center;
+	margin: 20px auto 20px auto;
+	border-radius: 10px;
+	box-shadow: 5px 5px 5px #777777;
+}	
 
 /*paragraphs*/
 p{
@@ -54,9 +72,15 @@ p{
 	text-align: left;
 	background-color: #21588C;
 	background-color:  hsl(180,50%,90%);
-	padding: 20px;
+	height: 140px;
+	padding: 10px;
+	margin: 0px auto 0px auto;
 }
 
+#resource{
+	background-color: rgb(241,242,244);
+	height: 30px;
+}
 /*Styled a Links*/
 a:link {
 color: rgb(33,88,140);
