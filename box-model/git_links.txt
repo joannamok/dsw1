@@ -4,4 +4,4 @@ Box-Model Assignment
 
 dsw1 git repo: https://github.com/joannamok/dsw1/tree/gh-pages
 
-CSS Color html: http://joannamok.github.io/dsw1/box-model/box-model.html
+CSS Box-Model html: http://joannamok.github.io/dsw1/box-model/box-model.html
