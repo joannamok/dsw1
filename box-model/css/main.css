@@ -9,12 +9,23 @@ body{
 	background-color: rgb(241,242,244);	/*off white*/
 }
 
+/*page div*/
+#page{
+	width: 960px;
+	border: 4px groove #013673;
+	padding: 20px;
+	margin: 10px auto;
+}
+
 /* main title */
 h1{
 	font: normal 2.2em/2.0em 'Trade Winds', cursive;
 	color: white;
 	text-shadow:2px 2px 7px #111111;
 	background-color:#468DC3;
+	padding: 20px;
+	text-align: center;
+	border: 4px double #013673;
 }
 
 /*section titles*/
@@ -24,12 +35,16 @@ h2,h3{
 	color: white;
 	text-shadow:2px 2px 7px #111111;
 	background-color: rgb(33,88,140);
+	padding: 15px;
+	text-align: center; 
+	border: 4px double #013673;
 }
 
 /*nav and list*/
 ul{
 	background-color: #21588C;
 	background-color: hsla(180,30%,50%,0.90);
+	list-style-type: none;
 }
 
 /*paragraphs*/
@@ -39,6 +54,7 @@ p{
 	text-align: left;
 	background-color: #21588C;
 	background-color:  hsl(180,50%,90%);
+	padding: 20px;
 }
 
 /*Styled a Links*/
