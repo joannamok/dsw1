@@ -4,4 +4,4 @@ Stylling-Text Assignment
 
 dsw1 git repo: https://github.com/joannamok/dsw1/tree/gh-pages
 
-CSS Color html: http://joannamok.github.io/dsw1/styling_text/styling_text.html
+CSS Color html: http://joannamok.github.io/dsw1/styling_text/styling-text.html

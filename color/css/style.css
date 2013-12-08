@@ -5,17 +5,16 @@ CSS Color Assignment
 
 /* entire page */
 body{
-	font-family: Arial, Verdana, sans-serif;
 	background-color: rgb(241,242,244);
 }
 /* main title */
 h1{
-	color: rgb(241,242,244);
+	color: white;
 	background-color:#468DC3;
 }
 /*subtitles*/
 h2,h3{
-	color: rgb(241,242,244);
+	color: white;
 	background-color: rgb(33,88,140);
 }
 /*lists*/
@@ -32,3 +31,14 @@ p{
 	background-color: #21588C;
 	background-color:  hsl(180,50%,90%);
 }
+
+/*
+Color Scheme found on Adobe Kuler:
+
+https://kuler.adobe.com/12th_man_qwest_field-color-theme-3278741/edit/?copy=true&base=
+2&rule=Custom&selected=2&name=Copy%20of%2012th_man_qwest_field&mode=rgb&rgbvalues=0.00392
+156862745098,0.21176470588235294,0.45098039215686275,0.12941176470588237,0.34509803921568627,0.5490
+196078431373,0.27450980392156865,0.5529411764705883,0.7647058823529411,0.9450980392156862,0.94901960
+78431372,0.9568627450980393,0.0392156862745098,0.043137254901960784,0.050980392156862744&swatchOrder=0,1,2,3,4
+
+*/
