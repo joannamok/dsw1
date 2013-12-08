@@ -48,6 +48,18 @@ p{
 	background-color:  hsl(180,50%,90%);
 }
 
+/*Styled Links*/
+a:link {
+color: rgb(33,88,140);
+text-decoration: none;}
+a:visited {
+color: rgb(33,88,140);}
+a:hover {
+color: deeppink;
+text-decoration: underline;}
+a:active {
+color: rgb(241,242,244);}
+
 /*
 Color Scheme found on Adobe Kuler:
 
