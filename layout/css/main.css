@@ -75,7 +75,7 @@ p{
 	text-align: left;
 	background-color: #21588C;
 	background-color:  hsl(180,50%,90%);
-	height: 140px;
+	/*height: 140px;*/
 	padding: 1%;
 	margin: 0% auto 0% auto;
 }
