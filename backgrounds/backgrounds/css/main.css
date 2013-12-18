@@ -1,0 +1,134 @@
+
+body{
+	font-family: Arial, Verdana, sans-serif;
+	background-image: url("../images/blue_pattern.gif");
+	background-repeat: repeat;
+	background-position: center center;	
+}
+
+/*page div*/
+#page{
+	background: rgb(241,242,244);	/*off white*/
+	width: 960px;
+	border: 4px groove #013673;
+	padding: 2%;
+	margin: 1% auto 1% auto;
+	overflow: auto;
+ 	width: 100%;
+
+}
+
+/* main title */
+h1{
+	font: normal 2.2em/2.0em 'Trade Winds', cursive;
+	color: white;
+	text-shadow:2px 2px 7px #111111;
+	background-color:#468DC3;
+	padding: 2%;
+	text-align: center;
+	border: 4px double #013673;
+	border-radius: 1em 4em 1em 4em / 2em 1em 2em 1em;
+	box-shadow: 5px 5px 5px #777777;
+	margin-bottom: 0%;
+}
+
+/*section titles*/
+h2,h3{
+	font: normal 1.6em/1.4em Arial, Verdana, sans-serif;
+	text-transform: capitalize;
+	color: white;
+	text-shadow:2px 2px 7px #111111;
+	background-color: rgb(33,88,140);
+	padding: 2%;
+	text-align: center; 
+	border: 4px double #013673;
+	border-radius: 10px;
+	margin: 0% auto 0% auto;
+}
+
+/*list items*/
+li {
+	margin-right: 2%;
+	display: inline;
+
+}
+
+/*nav and list*/
+ul{
+	background-color: #21588C;
+	background-color: hsla(180,30%,50%,0.90);
+	list-style-type: none;
+	padding: 1%;
+	text-align: center;
+	margin: 2% auto 2% auto;
+	border-radius: 10px;
+	box-shadow: 5px 5px 5px #777777;
+}	
+
+/*paragraphs*/
+p{
+	line-height: 25px;
+	word-spacing: 4px;
+	text-align: left;
+	background-color: #21588C;
+	background-color:  hsl(180,50%,90%);
+	/*height: 140px;*/
+	padding: 1%;
+	margin: 0% auto 0% auto;
+}
+
+/*link for source*/
+#resource{
+	background: url("../images/sm_Fish_skeleton.png") 2% no-repeat;
+	height: 3%;
+	padding-left: 5%;
+}
+
+/*Styled a Links*/
+a:link {
+color: rgb(33,88,140);
+text-decoration: none;
+font-weight: bold;}
+a:visited {
+color: rgb(33,88,140);}
+a:hover {
+color: deeppink;
+text-decoration: underline;}
+a:active {
+color: rgb(241,242,244);}
+
+/*intro paragraph*/
+.intro{
+	float: left;
+	width: 48%;
+	padding:1%;
+	margin:1% auto;
+}
+
+/* realtive species nav*/
+.relative_nav{
+	float: right;
+	width: 48%;
+	padding:1%;
+	margin:1% auto;
+	 }
+
+#sec2info{
+	clear: both;
+	}
+
+#intro_p p{
+	background: linear-gradient(to bottom, #468DC3 0%,#F1F2F4 100%);
+	border-radius: 10px;
+}
+
+/*
+Color Scheme found on Adobe Kuler:
+
+https://kuler.adobe.com/12th_man_qwest_field-color-theme-3278741/edit/?copy=true&base=
+2&rule=Custom&selected=2&name=Copy%20of%2012th_man_qwest_field&mode=rgb&rgbvalues=0.00392
+156862745098,0.21176470588235294,0.45098039215686275,0.12941176470588237,0.34509803921568627,0.5490
+196078431373,0.27450980392156865,0.5529411764705883,0.7647058823529411,0.9450980392156862,0.94901960
+78431372,0.9568627450980393,0.0392156862745098,0.043137254901960784,0.050980392156862744&swatchOrder=0,1,2,3,4
+
+*/
