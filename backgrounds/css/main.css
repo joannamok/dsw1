@@ -38,12 +38,13 @@ h2,h3{
 	text-transform: capitalize;
 	color: white;
 	text-shadow:2px 2px 7px #111111;
-	background-color: rgb(33,88,140);
+	
 	padding: 2%;
 	text-align: center; 
 	border: 4px double #013673;
 	border-radius: 10px;
 	margin: 0% auto 0% auto;
+	background: rgb(33,88,140) url("../images/sm_Fish_skeleton.png") 2% no-repeat;
 }
 
 /*list items*/

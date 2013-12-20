@@ -14,7 +14,7 @@ body{
 	padding: 2%;
 	margin: 2% auto 2% auto;
 	overflow: auto;
- 	width: 100%;
+ 	width: 90%;
 
 }
 
@@ -38,7 +38,7 @@ h2,h3{
 	text-transform: capitalize;
 	color: white;
 	text-shadow:2px 2px 7px #111111;
-	background-color: rgb(33,88,140);
+	background: rgb(33,88,140) url("../images/sm_Fish_skeleton.png") 2% no-repeat;
 	padding: 2%;
 	text-align: center; 
 	border: 4px double #013673;
