@@ -1,0 +1,320 @@
+body{
+	font-family: Arial, Verdana, sans-serif;
+	background-image: url("../images/red-tiger.png");}
+
+/* Whole Page Styling*/
+#page{
+	width: 960px;
+	background-color:hsla(216,220%,242%,0.75);
+	margin: 2% auto 2% auto;
+	border-radius: 10px;
+	overflow: auto;
+	width: 90%;}
+
+/*logo*/
+h1{
+	font:2.8em/2.6em 'Righteous', cursive;
+	border-radius: 1em 4em 1em 4em / 2em 1em 2em 1em;
+	text-align: center;
+	background: rgb(151,151,166);
+	border: 1px solid rgb(115,13,13);
+	margin: 2% 6% 2% 6%;
+	box-shadow: 5px 5px 5px #777777;}
+
+/*nav text*/
+ul li{
+	display:inline;
+	margin: 6% ;
+	color:rgb(242,242,240);
+}
+
+/*nav links*/
+a{
+	color: rgb(242,242,240);
+	text-decoration: none;
+}
+ /*styling nav links*/
+a:link {color:rgb(216,220,242);}      /* unvisited link */
+a:hover {color:deeppink;}  /* mouse over link */
+a:active {color:rgb(151,151,166);}  /* selected link */
+
+/*nav box*/
+ ul{
+ 	background: linear-gradient(to bottom, rgb(115,13,13) 0%,rgb(71,13,13) 100%);
+ 	list-style-type: none;
+ 	padding: 1%;
+ 	margin-bottom: 0%;
+ 	box-shadow: 3px 3px 3px #777777;}
+
+/*Subtitels,h2*/
+h2{
+	font-size: 2.6em;
+	color: rgb(115,13,13);
+	margin-top:0%;
+	padding: 4% auto 4% auto;
+	text-align: center;
+	background-color: rgb(151,151,166);}
+
+/************Intro Section-About Us***************/
+
+/*Intro Paragraph,Logo and image box*/
+#intro_p{
+	background-color: rgb(151,151,166);
+	float: right;
+line-height: 1.2em}
+
+/*Intro Paragraph Image blockquote*/
+blockquote {
+float: right;
+padding: 1%;}
+
+/*image inside blockquote*/
+blockquote img{
+	border: 4px double rgb(115,13,13);
+	border-radius: 10px;
+	box-shadow: 3px 3px 3px #777777;}
+
+/*paragraphs in intro section*/
+#intro_p p{
+	font-size:1.8em;
+	line-height: 1.3em;
+	padding: 1% 1% 1% 3%;}
+
+/*Intro Heading*/
+#about_us{
+	color: rgb(34,13,13);
+	background-color: rgb(216,220,242);
+	border-radius: 1em 4em 1em 4em / 2em 1em 2em 1em; 
+	text-align: center;
+	padding:1%;
+	width: 70%;
+	margin: 3% auto 0% auto;}
+
+
+/*********************Menu Table****************************/
+/*table*/
+table {
+	width: 100%;
+	padding: 2%;
+	margin-bottom: 4%;
+	border-spacing: 1% 5%;
+	}
+
+/*table headings and data*/
+th, td {
+	font-size: 2.6em;
+	padding: 0% 2% 2% 2%;
+	border:rgb(115,13,13) 1px solid;
+	border-radius: 3px;}
+
+/*table headings*/
+th {
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	color: rgb(242,242,240);
+	font-size: 1.8em;
+	border: 1px solid rgb(115,13,13);
+	text-align: center;
+	background: linear-gradient(to bottom, rgb(115,13,13) 0%,rgb(71,13,13) 100%);
+	padding: 2%;
+border-spacing: 0%;}
+
+/*table rows*/
+tr{
+	background-color: rgb(216,220,242);
+	font-size: 0.6em;}
+
+/*even table rows*/
+tr.even {
+	background-color: rgb(242,242,240);}
+
+/*hover*/
+tr:hover {
+	background: linear-gradient(to bottom, rgb(115,13,13) 0%,rgb(71,13,13) 100%);
+	color:rgb(242,242,240);}
+
+/*section with menu*/
+#mid-section{
+	background-color: rgb(151,151,166);}
+
+/*menu table*/
+#menu_chef{
+	background-color: rgb(151,151,166);	
+	width: 100%;
+	overflow: auto;}
+
+/********************Chef Gallery*****************************/
+
+/*chef gallery- h2, paragraph, images and subtitles */
+#chef_gallery{
+	font-size: 2.0;
+	background-color: rgb(151,151,166);
+	overflow: auto;
+	margin-bottom: 0%;
+	width: 100%;}
+
+/*chef gallery paragraph*/
+#chef_gallery p{
+	font-size: 1.8em;
+	text-align: center;
+	margin: 2% auto 2% auto;}
+
+/*image captions*/
+figcaption{
+	font-size:1.4em;
+	text-align: left;}
+
+/*images in chef gallery*/
+.entry img{
+	width: 300px;
+	height: 260px;
+	border-radius: 10px;
+	box-shadow: 3px 3px 3px #777777;
+	border: 1px solid rgb(115,13,13);}
+
+/*images with subttiles in chef gallery*/
+.entry{
+	float: left;}
+
+/*third and fourth image in gallery*/
+#three,#four{
+	clear: both;
+}
+/*box that has chef menu image and caption*/
+figure{
+	background-color: rgb(151,151,166);}
+
+/*h2 titles besides intro*/
+#find_us h2, #menu_chef h2,#chef_gallery h2,#form_sec h2{
+	padding-top: 8%;}
+
+/*************************Find Us Section***************************/
+
+/*find us section*/
+#find_us{
+	background-color: rgb(151,151,166);
+	clear: both;
+	overflow: auto;
+	width: 100%;}
+
+/*address in location section*/
+#address{
+	float: left;
+	margin-left: 6%;}
+
+/*phone number in location section*/
+#phone{
+	float: right;
+	margin-right: 6%;}
+
+/*find paragraphs*/
+#find_us p{
+	font-size: 2.6em;
+}
+
+/*****************Form*******************************/
+/*whole form*/
+form{
+	font-size: 1.8em;
+	width: 100%;
+	overflow: auto;
+	padding-bottom: 4%;
+	margin-bottom: 0%;}
+
+/*box containg form*/
+#form_sec{
+	background-color: rgb(151,151,166);
+border: 2px solid bottom rgb(151,151,166);}
+
+/*dopdown menu and text*/
+#drop_down{
+	clear: both;} 
+
+/*paragraph before form*/
+#newsletter_p{
+	font-size:1.8em;
+	text-align: center;}
+
+/*form box*/	
+fieldset{
+	background: linear-gradient(to bottom, rgb(216,220,242) 0%,rgb(105,104,115) 100%);
+	border: 1px solid rgb(115,13,13); 
+	width: 80%;
+	margin: 0% auto 0% auto;
+	font-size: 0.8em;}
+
+/*form label*/
+legend{
+	color:rgb(115,13,13);
+	font-size: 1.8em;}
+
+/*input titles*/
+.title{
+	}
+
+#top_input{
+	float: left;
+}
+
+/*email,name and comments box inputs*/
+.input_box{
+	border: 1px solid rgb(115,13,13);
+	border-radius: 3px;}
+
+/*email imput box*/
+#email{
+	margin-bottom:6%;
+clear: both}
+
+/*dropdown box*/
+#find-box{
+	margin-left: 4%;
+	border: 1px solid rgb(115,13,13);
+clear: both;}
+
+/*submit button*/
+#submit{
+	background: linear-gradient(to bottom, rgb(115,13,13) 0%,rgb(71,13,13) 100%);
+ 	border: 1px solid rgb(115,13,13);
+ 	color: rgb(242,242,240);
+ 	border-radius: 3px;
+ 	clear: both;}
+
+/*hover over form inputs*/
+.input_box:hover {
+	background: linear-gradient(to bottom, rgb(115,13,13) 0%,rgb(71,13,13) 100%);
+	color:rgb(242,242,240);}
+
+/*focus on submit button*/
+#submit:focus{
+	background-color: deeppink;}
+
+input,textarea{
+	font-size: 100%;
+	padding: 1%;
+}
+
+ /******************Footer***************************/
+
+ /*footer section*/
+footer{
+	clear: both;
+	background: rgb(151,151,166);
+	margin: 0% auto 0% auto;
+	width: 100%;
+	border: 1px solid rgb(151,151,166)}
+
+/*sentence in footer*/
+footer p{
+	text-align: center;
+	padding: 10% auto 0% auto;}
+
+ /*ordered list in footer*/
+ol{
+	font-size: 1.4em;
+	list-style-type: none;}
+
+/*addresses in footer*/
+ol li{
+	display: inline;
+	padding: 0% 4% 8% 0%;}

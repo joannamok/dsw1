@@ -1,0 +1,23 @@
+Adobe Kuler color scheme:	 https://kuler.adobe.com/Japan-Line-color-theme-1019146/edit/?copy=true
+med. gray: rgb(151,151,166);
+dark gray for gradeint: rgb(105,104,115);
+off white: rgb(242,242,240);
+red: rgb(115,13,13);
+darker red for gradient: rgb(71,13,13);
+darkest red for text: rgb(34,13,13)
+light gray: rgb(216,220,242);
+
+
+dragon sushi image: http://cdn.foodbeast.com.s3.amazonaws.com/content/wp-content/uploads/2013/08/sushi-dragon-roll.jpg
+
+sushi on with soup: http://www.sushilicomiami.com/SushiSashimiDXSet.jpg
+
+sushi with cavier: http://www.blogodisea.com/wp-content/uploads/2011/09/Uramaki-sushi-arroz-fuera-nori-dentro.jpg
+
+sushi in a row: http://www.myballard.com/wp-content/uploads/sushi-ballard.jpg
+
+sushi variety for into paragraph: http://www-tc.pbs.org/food/files/2012/09/Sushi-5-1.jpg
+
+sushi png for logo: https://www.google.com/search?q=sushi+cartoon&source=lnms&tbm=isch&sa=X&ei=C2q3UsbbOtHMkAfprIGoDQ&sqi=2&ved=0CAcQ_AUoAQ&biw=1416&bih=639#q=sushi+cartoon+png&tbm=isch&facrc=_&imgdii=_&imgrc=Z07ls4NWFnYW3M%3A%3Bbdc4EjrcQGMueM%3Bhttp%253A%252F%252Fpixabay.com%252Fstatic%252Fuploads%252Fphoto%252F2012%252F04%252F12%252F12%252F23%252Ffood-29791_640.png%3Bhttp%253A%252F%252Fpixabay.com%252Fen%252Ffood-cartoon-thai-asia-thailand-29791%252F%3B640%3B509
+
+pattern:	http://www.dinpattern.com/category/patterns/

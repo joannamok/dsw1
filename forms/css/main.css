@@ -159,6 +159,7 @@ fieldset{
 form{
 	width: 100%;
 	overflow: auto;}
+
 /*input boxes for email,name,commnents*/
 .inputs{
 	border-radius: 3px;
@@ -200,9 +201,11 @@ form{
 	clear: both;
 }
 
+/*dropdown box*/
 #drop_box{
 	padding: 4%;
 }
+/*input boxes*/
 input{
 	padding: 2%;
 	margin: 2%;
